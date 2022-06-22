@@ -16,7 +16,7 @@
 - :mortar_board: Information and Communications Technology @ Hong Duc University
 - 🌱 Learning `Fullstack JavaScript`, `Data Science` and `Computer Vision`
 - :computer: Working as `Software Engineer`
-- 🔥 Knowledge about `Java`, `JavaScript`, `C#`
+- 🔥 Knowledge about `C/C++/C#`, `Java`, `JavaScript`, `Python`
 
 
 ### Experience
