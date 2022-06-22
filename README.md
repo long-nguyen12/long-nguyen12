@@ -5,7 +5,6 @@
 <p align='center'> 
 <a href="https://www.linkedin.com/in/longnguyen1112//"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/nguyenlong.crazy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/l.crazy_12/?hl=en"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3> 👨‍💼 Long Nguyen Hoang    |     💻 Software Engineer    |    🌏 Thanh Hoa, Vietnam </h3> 
