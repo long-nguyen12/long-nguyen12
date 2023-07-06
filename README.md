@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/nguyenlong.crazy/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👨‍💼 Long Nguyen Hoang    |     💻 Software Engineer    |    🌏 Thanh Hoa, Vietnam </h3> 
+<h3> 👨‍💼 Hoang Long Nguyen    |     💻 Software Engineer    |    🌏 Thanh Hoa, Vietnam </h3> 
 </div>
 
 ### About me 
